@@ -53,3 +53,5 @@ Este tema foi escolhido por que o consumo de energia é um dos principais respon
 Este projeto analisa a relação entre o consumo de energia per capita e as emissões de CO₂ per capita em diversas regiões globais entre 2010 e 2020. Os dados foram extraídos de bases confiáveis, e técnicas de programação em Python foram utilizadas para filtrar, processar e visualizar essas informações.
 </h2>
 <h4>Fonte: Our World in Data(https://ourworldindata.org)</h4>
+
+<h6>Obs. Não esqueça de adicionar o caminho dos arquivos ao código para o seu pleno funcionamento</h6>
