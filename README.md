@@ -24,7 +24,12 @@ Grupo: EcoSense
 
 
 <h1>Gráficos:</h1>
-<img src="brave_screenshot_localhost.png"/>
+<img src="plots/AFRICA.png"/>
+<img src="plots/ASIA.png"/>
+<img src="plots/EUROPE.png"/>
+<img src="plots/NAM.png"/>
+<img src="plots/OCEANIA.png"/>
+<img src="plots/SAM.png"/>
 
 
 
