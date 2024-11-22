@@ -34,7 +34,7 @@ Grupo: EcoSense
 
 
 <h2>Subtema escolhido</h2>
-Este tema foi escolhido por que o consumo de energia é um dos principais responsáveis pela emissão de co² na atmosfera e o monitoramento desses dados é de extrema importância
+Este tema foi escolhido por que o consumo de energia é um dos principais responsáveis pela emissão de co² na atmosfera e o monitoramento desses dados é de extrema importância.
 </br>
 <h2>O que fizemos:</h2>
 </br>
